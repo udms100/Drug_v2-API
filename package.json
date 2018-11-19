@@ -1,7 +1,7 @@
 {
-  "name": "foodtruck-api",
+  "name": "compareprice-api",
   "version": "1.0.0",
-  "description": "Food Truck API",
+  "description": "COMPARE PRICE API",
   "main": "dist",
   "scripts": {
     "dev": "NODE_ENV=development nodemon -w src --exec \"babel-node src --presets es2015,stage-0\"",
